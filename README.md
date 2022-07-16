@@ -3,9 +3,13 @@
 *GENERAL*
 
 ➥ Project management
+
 ➥ Document-review
+
 ➥ Software-Development
+
 ➥ System administration
+
 ➥ Database programming
 ➥ Team Leadership
 
